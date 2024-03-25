@@ -37,7 +37,7 @@
       "unpaper",
       "zbar"
     ],
-    "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
     "fingerprints": {
       "iocage-plugins": [
         {
